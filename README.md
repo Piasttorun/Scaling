@@ -16,3 +16,4 @@
 # we can then verify it is running and can use the LD DNS name to access the VM's and use its features.
 ![Alt text](image-17.png)
 ![Alt text](image-18.png)
+# To get rid of it first delete the ld then target group then the sg at the end, the sg can only be deltyed from the group view menu
